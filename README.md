@@ -60,14 +60,14 @@
 | [DeepMind Blog](https://deepmind.com/blog) | 英文 | DeepMind的官方博客，介绍他们的研究成果和最新进展。 | ⭐⭐⭐⭐⭐ | 提供人工智能和深度学习的最新研究成果。 |
 | [Facebook AI Blog](https://ai.facebook.com/blog) | 英文 | Facebook AI团队的官方博客，分享他们的研究和新的AI技术。 | ⭐⭐⭐⭐⭐ | 提供AI的最新研究成果和应用。 |
 | [英伟达 AI Blog](https://blogs.nvidia.com/blog/category/deep-learning/) | 英文 | 英伟达公司的官方AI博客，分享他们在AI和深度学习领域的最新进展和研究。 | ⭐⭐⭐⭐⭐ | 提供了大量关于硬件加速、AI应用和深度学习的深度文章。 |
-| [Microsoft AI Blog](https://www.microsoft.com/en-us/ai/blog/) | 英文 | 微软公司的官方AI博客，分享他们在AI和机器学习领域的最新研究和进展。 | ⭐⭐⭐⭐⭐ | 提供了大量关于AI技术和应用的深度文章。 |
+| [Microsoft AI Blog](https://blogs.microsoft.com/) | 英文 | 微软公司的官方AI博客，分享他们在AI和机器学习领域的最新研究和进展。 | ⭐⭐⭐⭐⭐ | 提供了大量关于AI技术和应用的深度文章。 |
 | [Yann LeCun's Homepage](http://yann.lecun.com/) | 英文 | Yann LeCun，深度学习领域的先驱之一，他的个人主页提供了他的研究成果和相关文章。 | ⭐⭐⭐⭐⭐ | 提供深度学习和人工智能的深度文章。 |
 | [Geoffrey Hinton's Homepage](https://www.cs.toronto.edu/~hinton/) | 英文 | Geoffrey Hinton，被誉为“深度学习之父”，他的个人主页分享了他在AI领域的研究和成果。 | ⭐⭐⭐⭐⭐ | 提供深度学习和人工智能的深度文章。 |
 | [Andrej Karpathy Blog](https://karpathy.github.io/) | 英文 | Andrej Karpathy的个人博客，他是AI领域的知名研究者和Tesla AI的主管。 | ⭐⭐⭐⭐⭐ | 提供深度学习和人工智能的深度文章。 |
 | [Machine Learning Mastery](https://machinelearningmastery.com/blog/) | 英文 | Jason Brownlee的博客，提供机器学习和深度学习的教程和文章。 | ⭐⭐⭐⭐⭐ | 提供机器学习和深度学习的教程和文章。 |
-| [李宏毅博客](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | 中文 | 李宏毅教授的个人博客，他是台湾科技大学的知名AI研究者。 | ⭐⭐⭐⭐⭐ | 提供深度学习和人工智能的深度文章。 |
-| [吴恩达博客](https://www.deeplearning.ai/blog/) | 中文/英文 | 吴恩达，深度学习领域的重要人物，他的博客提供了许多有价值的深度学习和AI相关文章。 | ⭐⭐⭐⭐⭐ | 提供深度学习和人工智能的深度文章，适合各个层次的读者。 |
-| [李沐博客](https://www.stat.berkeley.edu/~lium/) | 中文/英文 | 李沐，深度学习领域的重要人物，他的博客提供了许多有价值的深度学习和AI相关文章。 | ⭐⭐⭐⭐⭐ | [B站](https://space.bilibili.com/1567748478) 有他的系列课程 |
+| [李宏毅博客](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) | 中文 | 李宏毅教授的个人博客，他是台湾科技大学的知名AI研究者。 | ⭐⭐⭐⭐⭐ | 提供深度学习和人工智能的深度文章。 |
+| [吴恩达](https://www.deeplearning.ai/blog/) | 中文/英文 | 吴恩达，深度学习领域的重要人物，他的博客提供了许多有价值的深度学习和AI相关文章。 | ⭐⭐⭐⭐⭐ | 提供深度学习和人工智能的深度文章，适合各个层次的读者。 |
+| [李沐](https://www.zhihu.com/people/mli65) | 中文/英文 | 李沐，深度学习领域的重要人物，他的博客提供了许多有价值的深度学习和AI相关文章。 | ⭐⭐⭐⭐⭐ | [B站](https://space.bilibili.com/1567748478) 有他的系列课程 |
 
 
 ## 社区
@@ -75,3 +75,4 @@
 | --- | --- | --- | --- | --- |
 | [Hugging Face](https://huggingface.co/) | 英文 | 一个以自然语言处理为主题的社区，提供了大量的开源模型和数据集。 | ⭐⭐⭐⭐⭐ | 提供了大量的开源模型和数据集，是自然语言处理研究的重要资源。 |
 | [Reddit AI](https://www.reddit.com/r/artificial/) | 英文 | Reddit的AI子论坛，用户在这里分享和讨论AI相关的话题。 | ⭐⭐⭐⭐ | Reddit是一个大型的网络论坛，其AI子论坛是一个活跃的AI社区。 |
+
